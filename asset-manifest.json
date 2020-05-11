@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-Color-UNDO-REDO-react-redux/static/css/main.1befa197.chunk.css",
+    "main.js": "/Random-Color-UNDO-REDO-react-redux/static/js/main.5d1ea923.chunk.js",
+    "main.js.map": "/Random-Color-UNDO-REDO-react-redux/static/js/main.5d1ea923.chunk.js.map",
+    "runtime-main.js": "/Random-Color-UNDO-REDO-react-redux/static/js/runtime-main.bd41ea5d.js",
+    "runtime-main.js.map": "/Random-Color-UNDO-REDO-react-redux/static/js/runtime-main.bd41ea5d.js.map",
+    "static/js/2.80cd6578.chunk.js": "/Random-Color-UNDO-REDO-react-redux/static/js/2.80cd6578.chunk.js",
+    "static/js/2.80cd6578.chunk.js.map": "/Random-Color-UNDO-REDO-react-redux/static/js/2.80cd6578.chunk.js.map",
+    "index.html": "/Random-Color-UNDO-REDO-react-redux/index.html",
+    "precache-manifest.5a8326f93bdeb8c8da1b9ddb26c14bab.js": "/Random-Color-UNDO-REDO-react-redux/precache-manifest.5a8326f93bdeb8c8da1b9ddb26c14bab.js",
+    "service-worker.js": "/Random-Color-UNDO-REDO-react-redux/service-worker.js",
+    "static/css/main.1befa197.chunk.css.map": "/Random-Color-UNDO-REDO-react-redux/static/css/main.1befa197.chunk.css.map",
+    "static/js/2.80cd6578.chunk.js.LICENSE.txt": "/Random-Color-UNDO-REDO-react-redux/static/js/2.80cd6578.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd41ea5d.js",
+    "static/js/2.80cd6578.chunk.js",
+    "static/css/main.1befa197.chunk.css",
+    "static/js/main.5d1ea923.chunk.js"
+  ]
+}
